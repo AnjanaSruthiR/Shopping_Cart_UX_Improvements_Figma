@@ -2,18 +2,15 @@
   <h1>🛒 Shopping Cart UX Improvements</h1>
   <h3>Refining the Checkout Experience: Leveraging Behavioral Design and Financial Transparency to Minimize Cart Abandonment</h3>
   
-  <p align="center">
-    <a href="https://www.figma.com/design/k9iTwE3wt5mmeHepPOI9gh/Shopping-Cart-UX-Improvements?node-id=0-1&t=TR5emCD9p81w70Lt-1" target="_blank">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" width="40" height="40" alt="Figma Prototype" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@ranga.anj/refining-the-checkout-experience-leveraging-behavioral-design-and-financial-transparency-to-0381ce94caf0?postPublishedType=initial" target="_blank">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" width="40" height="40" alt="Medium Case Study" />
-    </a>
-  </p>
-  <p align="center">
-    <b>View Figma Prototype</b> &nbsp;&nbsp; • &nbsp;&nbsp; <b>Read Case Study</b>
-  </p>
+ <div align="center">
+  <a href="https://www.figma.com/design/k9iTwE3wt5mmeHepPOI9gh/Shopping-Cart-UX-Improvements?node-id=0-1&t=TR5emCD9p81w70Lt-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Prototype-00A8A8?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@ranga.anj/refining-the-checkout-experience-leveraging-behavioral-design-and-financial-transparency-to-0381ce94caf0?postPublishedType=initial" target="_blank">
+    <img src="https://img.shields.io/badge/UX_Case_Study-00A8A8?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 </div>
 
 <hr />
